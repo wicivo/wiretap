@@ -49,7 +49,7 @@ public abstract class AnvilMenuMixin extends ItemCombinerMenu {
             return;
         }
 
-        if (itemName == null || !itemName.equalsIgnoreCase("wiretap")) {
+        if (itemName == null || !itemName.equalsIgnoreCase("Прослушка")) {
             return;
         }
 
